@@ -5,3 +5,7 @@ The IMDb is an excellent resource to find detailed information about almost any 
 data – it is only available in a number of inconsistently structured text files. We have found that the IMDb is difficult to perform data analysis upon, due to the format of the source data. We also found some interesting facts, such as the budget of a film is no indication of how well-rated it will be, there is a downward trend in the quality of films over time.
 
 For visualization and analysis of various parameters related to movie genre, ratings and popularity trends [Tableau Dashboard](https://public.tableau.com/app/profile/sushant.batra/viz/IMDb_Movies_Dashboard/IMDbDashboard) was created.
+
+## Technologies Used
+
+Python, Tableau
